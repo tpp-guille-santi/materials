@@ -18,7 +18,7 @@ Queremos que esta aplicación sea un esfuerzo colectivo y comunitario. Estamos a
 
 2. **Mejorando la información:** Nuestro portal web permite a los usuarios escribir información sobre el reciclaje de diversos materiales en diferentes niveles geográficos. Si tienes conocimientos sobre el reciclaje de materiales específicos en tu provincia, departamento o municipio, te invitamos a compartirlo en la página correspondiente. Juntos podemos enriquecer el contenido y promover prácticas de reciclaje más efectivas.
 
-Podés hacer tus aportes en nuestro portal: [Recisnap Web](https://recisnap-backoffice-test.vercel.app/)
+Podés hacer tus aportes en nuestro portal: [https://recisnap-backoffice-test.vercel.app/](https://recisnap-backoffice-test.vercel.app/)
 
 ## Sobre nosotros
 
